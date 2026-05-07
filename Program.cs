@@ -27,11 +27,12 @@ namespace AshtonScott_Animation
         static void Main(string[] args)
         {
             // Set console encoding to UTF8
-            // Not sure if i actually need this but I don't think it hurts
+            // Not sure if I actually need this but I don't think it hurts
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-            // Setup the animation path as a constant variable
-            const string PathAnimation = "C:\\Users\\Ashton Scott\\Visual Studio\\source\\repos\\AshtonScott_Animation\\animation";
+            // YOU WILL NEED TO POINT THIS TO THE ANIMATION FOLDER OR
+            // NOTHING WILL WORK AND YOUR COMPUTER WILL EXPLODE
+            const string PathAnimation = ""; // Setup the animation path as a constant variable
 
             // Grab the file that contains the 'attention grabber' and print it
             string attention = File.ReadAllText($"{PathAnimation}\\attention.txt");
