@@ -1,3 +1,3 @@
 # animation-flames
 
-![](https://github.com/scotad2/animation-flames/main/flames.gif)
+![](https://github.com/scotad2/animation-flames/blob/main/flames.gif)
