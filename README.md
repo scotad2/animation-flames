@@ -7,6 +7,8 @@
 Make sure the paths are set correctly, the 'animation' folder should be located
 within the same directory as the executable (.exe)!
 
+(If your messing with the source code, you will need to set the path in the program file.)
+
 # The animation looks garbled?
 
 Make sure your console screen is large enough, I recommend you fullscreen it.
